@@ -40,7 +40,7 @@ int main() {
   // Entrada de dados da segunda carta
   printf ("Agora vamos para a segunda carta... \n");
   
-  printf ("O Estado (Uma letra de 'A' a 'H'): \n");
+  printf ("O Estado, uma letra de 'A' a 'H': \n");
   scanf ("%c", &Estado02);
 
   printf ("O código da carta (A letra do estado seguida de um número de 01 a 04): \n");
